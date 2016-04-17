@@ -1,6 +1,6 @@
-# iccv2015_sjh
+# A Projection free method for Generalized Eigenvalue Problem with a nonsmooth Regularizer (ICCV 2015)
 Seong Jae Hwang
-
+sjh@cs.wisc.edu
 http://pages.cs.wisc.edu/~sjh/
 
 A Projection free method for Generalized Eigenvalue Problem with a nonsmooth Regularizer (ICCV 2015)
